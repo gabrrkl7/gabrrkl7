@@ -64,31 +64,6 @@ I’m a front-end developer who is starting in the area. I'm using now React and
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gabrrkl7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://4kwallpapers.com/images/wallpapers/coffee-cup-refill-7680x4320-13666.png" align="left" height="50%" width="100%" />  
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=gabrrkl7&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
