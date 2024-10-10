@@ -28,16 +28,14 @@ I’m a front-end developer who is starting in the area. I'm using now React and
   
 
 - 🌠 I’m currently learning Python and Django  
-  
+
+
+</td><td valign="top" width="50%">
 
 - ✉️  Contact me at gabriel.dev09@gmail.com  
   
 
 - ⚡ Fun fact: One of my passions are coffe, perfumes and violin  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -73,6 +71,7 @@ I’m a front-end developer who is starting in the area. I'm using now React and
 
 </td><td valign="top" width="50%">
 
+<img src="https://4kwallpapers.com/images/wallpapers/coffee-cup-refill-7680x4320-13666.png" align="left" height="50%" width="100%" />  
 
 
 </td></tr></table>  
