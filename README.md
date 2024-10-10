@@ -65,5 +65,3 @@ I’m a front-end developer who is starting in the area. I'm using now React and
 
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
