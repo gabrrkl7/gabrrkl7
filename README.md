@@ -27,7 +27,7 @@ I’m a front-end developer who is starting in the area. I'm using now React and
 - 📖 I’m currently studying Web Development at Senai   
   
 
-- 🌠 I’m currently learning Python and Django  
+- 🌠 I’m currently learning Next and Tailwind
 
 
 </td><td valign="top" width="50%">
