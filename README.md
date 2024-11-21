@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a front-end developer who is starting in the area. I'm using now React and Typescript to develop some projects, but i have few freelance works using Python, Django and Javascript. I'm ready to learn and open to new oportunities.  
+I’m a front-end developer at the beginning of my career, focused on React and TypeScript to create modern and efficient interfaces. I’ve also worked on freelance projects using Python, Django, and JavaScript, which has given me a broad understanding of web development. I’m always looking for new challenges and opportunities to learn and grow in the field.
   
 
 <br/>  
