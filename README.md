@@ -24,7 +24,7 @@ I am a full-stack developer at the beginning of my career, with a focus on React
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 📖 I’m currently studying Web Development at Senai   
+- 📖 I am currently pursuing a degree in Systems Analysis and Development at SENAI.   
   
 
 - 🌠 I’m currently learning Next and Tailwind
