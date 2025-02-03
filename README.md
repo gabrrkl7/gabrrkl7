@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a front-end developer at the beginning of my career, focused on React and TypeScript to create modern and efficient interfaces. I’ve also worked on freelance projects using Python, Django, and JavaScript, which has given me a broad understanding of web development. I’m always looking for new challenges and opportunities to learn and grow in the field.
+I am a full-stack developer at the beginning of my career, with a focus on React and TypeScript for building modern and efficient user interfaces. Currently, I work as a support analyst, with opportunities to develop further as a full-stack developer. Moreover, I have experience through freelance projects using Python, Django, and JavaScript, which has provided me with a broad understanding of web development. I am always seeking new challenges and opportunities to learn and grow within the field.
   
 
 <br/>  
