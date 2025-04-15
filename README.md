@@ -27,7 +27,7 @@ I am a full-stack developer at the beginning of my career, with a focus on React
 - 📖 I am currently pursuing a degree in Systems Analysis and Development at SENAI.   
   
 
-- 🌠 I’m currently learning Entity framework
+- 🌠 I’m currently learning node js
 
 
 </td><td valign="top" width="50%">
