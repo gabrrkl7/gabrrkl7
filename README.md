@@ -57,7 +57,8 @@ I am a full-stack developer at the beginning of my career, with a focus on React
 <br/>  
 
 ## 📊 Most Used Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrrkl7&langs_count=10&theme=radical&card_width=1000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrrkl7&langs_count=10&theme=github_dark&card_width=1000" alt="Top Languages" />
 </div>
 
