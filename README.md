@@ -67,4 +67,7 @@ I am a full-stack developer at the beginning of my career, with a focus on React
 <br/>  
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrrkl7&layout=compact&theme=radical)
+
+
 
