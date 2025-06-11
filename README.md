@@ -61,7 +61,7 @@ I am a full-stack developer at the beginning of my career, with a focus on React
 </div>
 
 
-<img align="left" height="230" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp5Y2g5ZnZxYXIyYnA3OHR3bDRpdmR0Y2RvNzNqdDcxa3Jkc3p6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hu4m8ymV1Qrgb5K1Hx/giphy.gif"  />
+<img align="left" height="230" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp5Y2g5ZnZxYXIyYnA3OHR3bDRpdmR0Y2RvNzNqdDcxa3Jkc3p6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hu4m8ymV1Qrgb5K1Hx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp5Y2g5ZnZxYXIyYnA3OHR3bDRpdmR0Y2RvNzNqdDcxa3Jkc3p6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hu4m8ymV1Qrgb5K1Hx/giphy.gif)"  />
 
 
 
