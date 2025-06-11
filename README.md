@@ -54,11 +54,14 @@ I am a full-stack developer at the beginning of my career, with a focus on React
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
 
-<br/>  
-
-## 📊 Most Used Languages
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrrkl7&langs_count=10&theme=github_dark&card_width=1000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrrkl7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
+<img align="left" height="230" src="[https://usagif.com/wp-content/uploads/rain-23.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp5Y2g5ZnZxYXIyYnA3OHR3bDRpdmR0Y2RvNzNqdDcxa3Jkc3p6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hu4m8ymV1Qrgb5K1Hx/giphy.gif)"  />
+
+
 
