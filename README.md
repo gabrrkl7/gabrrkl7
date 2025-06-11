@@ -57,7 +57,7 @@ I am a full-stack developer at the beginning of my career, with a focus on React
 <br clear="both">
 
 
-<img align="left" src=![gif](https://github.com/gabrrkl7/gabrrkl7/raw/main/assets/giphy.gif) width="300" />
+![GIF](https://github.com/gabrrkl7/gabrrkl7/raw/main/assets/giphy.gif)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrrkl7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
