@@ -12,12 +12,13 @@ como seria legal de colocar meu portfólio aqui?
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>  
 
+[![Portfolio](https://img.shields.io/badge/🚀-My%20Portfolio-blue?style=for-the-badge&logo=nextdotjs)](https://portfolio-gabrrkl7-gdd7.vercel.app/)
+
 ---
 
 ### Glad to see you here!  
 I am a full-stack developer at the beginning of my career, with a focus on React and TypeScript for building modern and efficient user interfaces. Currently, I work as a support analyst, with opportunities to develop further as a full-stack developer. Moreover, I have experience through freelance projects using Python, Django, and JavaScript, which has provided me with a broad understanding of web development. I am always seeking new challenges and opportunities to learn and grow within the field.
 
-[![Portfolio](https://img.shields.io/badge/🚀-My%20Portfolio-blue?style=for-the-badge&logo=nextdotjs)](https://portfolio-gabrrkl7-gdd7.vercel.app/)
 <br/>  
 
 ## 🚀 Rapidfire  
