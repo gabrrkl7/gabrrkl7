@@ -1,5 +1,3 @@
-como seria legal de colocar meu portfólio aqui?
-
 ## Hey 👋, I'm Gabriel Ribeiro!  
 
 <a href="https://github.com/gabrrkl7" target="_blank">
