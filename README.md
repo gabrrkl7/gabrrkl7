@@ -16,7 +16,7 @@
 ---
 
 ### Glad to see you here!  
-I am a full-stack developer at the beginning of my career, with a focus on React and TypeScript for building modern and efficient user interfaces. Currently, I work as a support analyst, with opportunities to develop further as a full-stack developer. Moreover, I have experience through freelance projects using Python, Django, and JavaScript, which has provided me with a broad understanding of web development. I am always seeking new challenges and opportunities to learn and grow within the field.
+Full Stack Developer with experience in .NET, Entity Framework Core, Angular, and AI Automation. Skilled in maintaining, enhancing, and integrating corporate systems. Knowledgeable in Relational and Non-Relational Databases and intelligent automations with n8n. Focused on continuous learning, applying new technologies to deliver scalable, integrated, and high-impact solutions in both professional and academic environments.
 
 <br/>  
 
