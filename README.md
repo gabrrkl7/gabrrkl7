@@ -61,7 +61,7 @@ Full Stack Developer with experience in .NET, Entity Framework Core, Angular, an
 
 <img align="left" height="230" src="https://github.com/gabrrkl7/gabrrkl7/raw/main/assets/giphy.gif" alt="Gif" />
 
-########
+<br>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrrkl7&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
