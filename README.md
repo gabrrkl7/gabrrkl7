@@ -62,8 +62,6 @@ Full Stack Developer with experience in .NET, Entity Framework Core, Angular, an
 <img align="left" height="230" src="https://github.com/gabrrkl7/gabrrkl7/raw/main/assets/giphy.gif" alt="Gif" />
 
 <div align="center">
-<a href="https://www.instagram.com/gabrrkl7" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrrkl">
-</a> 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrrkl7)
 </div>
 
