@@ -58,16 +58,18 @@ Full Stack Developer with experience in .NET, Entity Framework Core, Angular, an
 
 <br clear="both">
 
-<table>
-  <tr>
-    <td>
-      <img height="230" src="https://github.com/gabrrkl7/gabrrkl7/raw/main/assets/giphy.gif" alt="Gif" />
-    </td>
-    <td>
-      <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrrkl7&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img height="230" src="https://github.com/gabrrkl7/gabrrkl7/raw/main/assets/giphy.gif" alt="Gif" />
+      </td>
+      <td style="border: none;">
+        <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrrkl7&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
